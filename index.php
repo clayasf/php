@@ -1,4 +1,6 @@
 <?php
 
-echo "teste do git";
+echo "teste do git para conflito";
+
+
 ?>
